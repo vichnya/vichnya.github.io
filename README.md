@@ -2,7 +2,7 @@
 
 **Я буду использовать самые передовые технологии и новые инструменты для разработки**
 
-## Welcome to GitHub Pages
+## Страница блога
 
 You can use the [editor on GitHub](https://github.com/vichnya/vichnya.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
