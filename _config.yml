@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: Портфолио студента «Чернышева Виктория»
-description: Здесь будет описание портфолио
+title: Ссылка для метрики
+#description: Здесь будет описание портфолио
 show_downloads: true
 github:
-  zip_url: https://ict.herzen.spb.ru/user/data/documents/cepo-conf-2022/Программа_Конф_22_25_Февраля_Краткая.pdf
+#  zip_url: https://ict.herzen.spb.ru/user/data/documents/cepo-conf-2022/Программа_Конф_22_25_Февраля_Краткая.pdf
