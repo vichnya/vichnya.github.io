@@ -1,4 +1,4 @@
-theme: jekyll-theme-modernist
+theme: jekyll-theme-minimal
 name: Веб-портфолио
 description: по дисциплине "Основы электронного управления"
 permalink: /:title/
