@@ -7,6 +7,8 @@
 
 Подключение к базе данных:⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ![1-1](https://github.com/vichnya/vichnya.github.io/blob/main/lr/img1/1-1.png)
+
+
 Логика работы с датасетом:⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ![1-2](https://github.com/vichnya/vichnya.github.io/blob/main/lr/img1/1-2.png)
 
