@@ -1,12 +1,8 @@
 <div class="header {% if page.big_header %}big-header{% else %}small-header{% endif %}">
   {% if page.big_header %}
-    <div class="header-logo-wrapper">
-      <img class="header-logo" src="{{ site.github.url }}/images/jasmine-white-circle.svg" alt=""/>
-    </div>
   {% endif %}
   <div class="header-title">
     <a class="home" href="{{ site.github.url }}./README.md">
-      <img src="{{ site.github.url }}/images/jasmine-white-horizontal.svg" width = '600' height = '140' alt="Documentation Home" />
     </a>
     {% if page.big_header %}
       <div class="header-title-text">Веб-порфолио</div>
