@@ -1,5 +1,5 @@
 ## Лабораторная работа 4. Анализирование сайта с помощью Яндекс.Метрики и Yandex DataLens
->[Портфолио](/port.md)
+>[Портфолио](https://vichnya.github.io/port/)
 
 > [Отчет по работе](https://drive.google.com/file/d/13-mLQRXsxqPUaNZ-Fltmh6NM5wz6FWqY/view?usp=drive_link)
 > 
