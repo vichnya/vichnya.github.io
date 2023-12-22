@@ -1,5 +1,5 @@
 ## Лабораторная работа 1. Знакомство с Yandex DataLens. Простые чарты и дашборды
->[Портфолио](./port.md)
+>[Портфолио](/port.md)
 
 >[Отчет по работе](https://drive.google.com/file/d/1rnoHLVFGoUcuQdWhRGofoVWXT_ccBMHi/view?usp=drive_link)
 > 
