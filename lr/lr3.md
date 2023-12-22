@@ -1,5 +1,5 @@
 ## Лабораторная работа 3. Создание подключения с помощью csv файла. Работа с селекторами
->[Портфолио](/port.md)
+>[Портфолио](https://vichnya.github.io/port/)
 
 > [Отчет по работе](https://drive.google.com/file/d/1MBRQGFP4uJa02keCLA_yrlTgSPlbZATQ/view?usp=drive_link)
 > 
