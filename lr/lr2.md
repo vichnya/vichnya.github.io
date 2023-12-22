@@ -1,5 +1,5 @@
 ## Лабораторная работа 2. Знакомство с видами чартов в Yandex DataLens
->[Портфолио](/port.md)
+>[Портфолио](https://vichnya.github.io/port/)
 
 > [Отчет по работе](https://drive.google.com/file/d/1XNZ4rQEr32d35hnbE4kllsZt9TdfzfFt/view?usp=drive_link)
 > 
